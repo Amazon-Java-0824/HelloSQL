@@ -119,7 +119,7 @@
 ### 🧩 Practical Project: Robot Inventory System
 
 ### Project Description
-- Develop a simple robot inventory system using SQL and the concepts learned in Week 6.
+- Develop a simple robot inventory system using SQL and the concepts learned in Week 5.
 - The system should allow managers to track robot models, components, and assembly records.
 
 ### Project Requirements
