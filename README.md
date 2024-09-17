@@ -21,6 +21,7 @@
   - Has no transitive functional dependencies.
 
 ### 🎨 Practical Exercise: Normalizing a Database
+![](/robots.png)
 - **Task:** Normalize the given robot inventory table to 3NF.
 - **Instructions:**
   - Analyze the table and identify any data redundancy or anomalies.
